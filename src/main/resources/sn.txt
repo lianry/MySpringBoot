@@ -1,0 +1,8 @@
+
+
+source ~/.bash_profile
+
+http://localhost:9080/mywebaf/user/3
+
+MySpringBoot git:(master) ✗ mvn jetty:run
+
